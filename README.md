@@ -10,13 +10,13 @@ Stereo Matching using Belief Propagation implemented in MATLAB and Python.
 
 ### Three different versions of Belief Propagation
 
-- Belief Propagation with accelerated message update schedule
-- Belief Propagation with synchronous message update schedule
-- Belief Propagation with synchronous message update schedule (alternative approach)
+- BP with accelerated message update schedule
+- BP with synchronous message update schedule
+- BP with synchronous message update schedule (alternative approach)
 
 The algorithms are implemented in both MATLAB and Python.
 
-All algorithms are accelerated for performance using matrix operations and other techniques.
+All algorithms are optimized for performance using matrix operations and other techniques.
 
 ## Installation
 
