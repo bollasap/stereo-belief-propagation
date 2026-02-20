@@ -1,5 +1,11 @@
 # Stereo Matching using Belief Propagation
 
+> [!IMPORTANT]
+> **Repository Moved**  
+> This repository has been moved to a new location and is no longer maintained here.  
+> Please visit the new repository: https://github.com/aposb/stereo-matching-algorithms  
+> This repository is archived and kept for reference only.
+
 Stereo Matching using Belief Propagation implemented in MATLAB and Python.
 
 ## Features
